@@ -1,0 +1,52 @@
+h1 {
+    color: green;
+    border: solid black 1mm;
+    background-color:wheat;
+    border-radius: 15px;
+   
+}
+
+nav span {
+    color: rgba(2, 108, 2, 0.292);
+    border: solid black 1 mm;
+}
+
+.jumbotron p a {
+    color: yellowgreen;
+}
+
+div.blog-post:first-of-type {
+    color: pink;
+    font-style: oblique;
+}
+div.blog-post:first-of-type hr {
+    color: rgb(12, 12, 12);
+
+}
+
+ol.mb-0 li a{
+color: brown;
+}
+
+.blog-post:nth-of-type(2) p.blog-post-meta a:nth-of-type(1) {
+    color: blueviolet;
+}
+
+.blog-post:nth-of-type(3) ul li:nth-of-type(2) {
+    color: red;
+}
+
+a.mr-3 {
+    color: brown;
+    font-size: larger;
+}
+
+.blog-pagination a.disabled {
+    font-style: oblique;
+    color: rgb(141, 71, 255);
+}
+
+footer p a:last-of-type {
+    color: palevioletred;
+    font-size: xx-large;
+}
